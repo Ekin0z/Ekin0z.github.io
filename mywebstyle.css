@@ -1,0 +1,108 @@
+header{
+    text-align: center;
+    background-color: rgb(3, 134, 73);
+    padding: 10px;
+    margin: 0;
+}
+.image{
+    text-align: center;
+    padding: 5px;
+}
+body{
+    background-color: rgb(248, 229, 205);
+}
+.first{
+    font-size: large;
+    text-align: center;
+    border: 10px;
+    border-style: double;
+    border-color: rgb(3, 134, 73);
+}
+.first p{
+    font-size: larger;
+}
+.second{
+    font-size: larger;
+    text-align: center;
+    padding-top: 20px;
+    border: 10px;
+    border-style: double;
+    border-color: rgb(3, 134, 73);
+}
+.second h2{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+ul{
+    list-style-type: none;
+    font-size: larger;
+}
+.second li{
+    display: inline-block;
+    margin: 0 50px;
+    padding-left: 10px;
+    list-style-type: square;
+}
+.codinglang{
+    border: 10px;
+    border-style: double;
+    border-color: rgb(3, 134, 73);
+    font-size: larger;
+}
+table{
+    border: 5px solid rgb(3, 134, 73);
+    width: 20%;
+    height: 10%;
+    padding: 3px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+th,tr{
+    text-align: center;
+    padding: 2px;
+    border: 2px solid rgb(3, 134, 73);
+}
+.codinglang h2{
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 5px;
+}
+.codinglang{
+    padding-top: 20px;
+}
+#Projects{
+    border: 10px;
+    border-style: double;
+    border-color: rgb(3, 134, 73);
+    padding-bottom: 10px;
+}
+.project{
+    text-align: center;
+    font-size: large;
+    padding-top: 20px;
+}
+.powerbi{
+    text-align: center;
+    padding: 10px;
+}
+.info li{
+    text-align: center;
+    display: inline-block;
+    margin: 0 50px;
+}
+.info{
+    text-align: center;
+}
+.info p{
+    padding-left: 45px;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 99%;
+    clear: both;
+}
